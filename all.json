@@ -1,8 +1,9 @@
 {
   "fx-paycheck": {
-    "latest": "1.0",
+    "latest": "1.1",
     "changelog": [
-      "- Release",
+      "- You can now set an individual salary for each grade.",
+      "- For now you are running the latest release, you can ignore this",
     ]
   },
   "fx-serial": {
