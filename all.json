@@ -1,10 +1,14 @@
 {
-"fx-paycheck": {
-"latest": "1.0",
-"changelog": [
-"- ",
-"- ",
-"- "
-]
-}
+  "fx-paycheck": {
+    "latest": "1.0",
+    "changelog": [
+      "- Release",
+    ]
+  },
+  "fx-serial": {
+    "latest": "1.0",
+    "changelog": [
+      "- Release",
+    ]
+  }
 }
