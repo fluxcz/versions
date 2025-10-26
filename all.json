@@ -3,7 +3,8 @@
     "latest": "1.1",
     "changelog": [
       "- You can now set an individual salary for each grade.",
-      "- For now you are running the latest release, you can ignore this",
+      "- Download updated version: https://github.com/fluxcz/fx_paycheck/releases/tag/1.1",
+      "- Files updated: config.lua , sv.lua",
     ]
   },
   "fx-serial": {
